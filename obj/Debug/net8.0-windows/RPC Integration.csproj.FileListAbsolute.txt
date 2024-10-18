@@ -1,0 +1,28 @@
+C:\Programming\Aurora\Source\RPC Integration\bin\Debug\net8.0-windows\DiscordRPCCompile.dll
+C:\Programming\Aurora\Source\RPC Integration\bin\Debug\net8.0-windows\discord_game_sdk.dll
+C:\Programming\Aurora\Source\RPC Integration\bin\Debug\net8.0-windows\RPC Integration.exe
+C:\Programming\Aurora\Source\RPC Integration\bin\Debug\net8.0-windows\bg.png
+C:\Programming\Aurora\Source\RPC Integration\bin\Debug\net8.0-windows\ph.png
+C:\Programming\Aurora\Source\RPC Integration\bin\Debug\net8.0-windows\RPC Integration.deps.json
+C:\Programming\Aurora\Source\RPC Integration\bin\Debug\net8.0-windows\RPC Integration.runtimeconfig.json
+C:\Programming\Aurora\Source\RPC Integration\bin\Debug\net8.0-windows\RPC Integration.dll
+C:\Programming\Aurora\Source\RPC Integration\bin\Debug\net8.0-windows\RPC Integration.pdb
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration.csproj.AssemblyReference.cache
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\GUI.g.cs
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\App.g.cs
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration_MarkupCompile.cache
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration_MarkupCompile.lref
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\GUI.baml
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration.g.resources
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration.AssemblyInfoInputs.cache
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration.AssemblyInfo.cs
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration.csproj.CoreCompileInputs.cache
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration.sourcelink.json
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Inte.02A0696D.Up2Date
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration.dll
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\refint\RPC Integration.dll
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration.pdb
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\RPC Integration.genruntimeconfig.cache
+C:\Programming\Aurora\Source\RPC Integration\obj\Debug\net8.0-windows\ref\RPC Integration.dll
